@@ -1,3 +1,12 @@
+<!-- STORMY FX ANIMATED PIXEL MASCOT -->
+<div align="center">
+
+<img src="./assets/stormy-mascot.gif" width="360" alt="Animated STORMY FX Minecraft-inspired pixel mascot"/>
+
+<sub>STORMY FX · PIXEL MASCOT · CREATE / REFINE / EVOLVE</sub>
+
+</div>
+
 <div align="center">
 
 <img src="./assets/hero.svg" width="100%" alt="STORMY FX — Akash Karmali"/>
