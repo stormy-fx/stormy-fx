@@ -1,0 +1,22 @@
+STORMY FX README UPGRADE — INSTALLATION
+
+1. Copy README.md to the root of your profile repository on the main branch.
+2. Copy the entire assets/ folder to the same repository root.
+3. Open README.md and replace the three comments in section 04 with your existing, currently working <img> tags for:
+   - GitHub stats
+   - Top languages
+   - Streak stats
+   Do not change their usernames or URLs if they already work.
+4. The snake URL in this README is the expected output-branch path:
+   https://raw.githubusercontent.com/vivekananda-school/vivekananda-school/output/github-snake-dark.svg
+   If your currently working snake uses a different URL, keep that exact URL instead.
+5. Replace the four project links and descriptions with real repositories and live demos.
+6. The project-frame SVGs are decorative preview cards, not frames that automatically wrap arbitrary external screenshots. For real project screenshots, either:
+   - replace each project-frame-XX.svg with a composed image/SVG containing the actual screenshot and frame, or
+   - change the README img src to your real screenshot and keep the same consistent 16:9 ratio.
+7. Commit README.md and assets/ together.
+
+Compatibility notes:
+- GitHub README does not support arbitrary page CSS or JavaScript, so these are image-based visuals, not real HTML glassmorphism panels.
+- The infinity hero and footer use SVG animation. Some clients may render SVG animation differently; if motion is not visible, they still display as static artwork.
+- External services such as typing SVGs and skill icons can occasionally be unavailable.
