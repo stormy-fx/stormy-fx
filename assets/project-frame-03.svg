@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" role="img" aria-labelledby="t d">
+<title id="t">INTERFACE SYSTEMS</title><desc id="d">Decorative project preview frame. Replace this file with a screenshot composed into the same frame.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08090D"/><stop offset=".6" stop-color="#101017"/><stop offset="1" stop-color="#ba355d"/></linearGradient>
+ <linearGradient id="edge"><stop stop-color="#fff" stop-opacity=".8"/><stop offset=".3" stop-color="#ff5368" stop-opacity=".8"/><stop offset="1" stop-color="#fff" stop-opacity=".18"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#ba355d" stop-opacity=".65"/><stop offset="1" stop-color="#ba355d" stop-opacity="0"/></radialGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="720" height="440" rx="24" fill="#08090D"/>
+<rect x="8" y="8" width="704" height="424" rx="19" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+<ellipse cx="510" cy="220" rx="190" ry="160" fill="url(#aura)" filter="url(#blur)"/>
+<g opacity=".18" stroke="#f7e9ef"><path d="M30 90H690M30 350H690M110 30V410M610 30V410"/><path d="M30 120H690M30 320H690" stroke-dasharray="3 10"/></g>
+<g fill="none" stroke="#ba355d" stroke-width="2" opacity=".8"><path d="M360 120 L540 120 L610 220 L540 320 L360 320 L290 220 Z"/><path d="M390 150 L510 150 L560 220 L510 290 L390 290 L340 220 Z"/></g>
+<path d="M24 68V24H68M652 24H696V68M24 372V416H68M652 416H696V372" fill="none" stroke="#ff5368" stroke-width="3"/>
+<rect x="28" y="28" width="664" height="384" rx="14" fill="none" stroke="#fff" stroke-opacity=".16"/>
+<g fill="#c5bac4" font-family="monospace" font-size="12" letter-spacing="2"><text x="48" y="57">STORMY / FX</text><text x="672" y="57" text-anchor="end">PROJECT 03</text></g>
+<text x="48" y="310" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">INTERFACE SYSTEMS</text>
+<text x="50" y="338" fill="#ffd6df" font-family="monospace" font-size="12" letter-spacing="2">COMPONENTS / DETAIL</text>
+<path d="M48 366H240" stroke="#ff5368" stroke-width="3"/>
+<text x="672" y="390" fill="#e5cbd3" font-family="monospace" font-size="11" text-anchor="end">VISUAL PREVIEW / REPLACE WITH REAL PROJECT</text>
+</svg>
