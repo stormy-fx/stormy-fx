@@ -1,244 +1,295 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="STORMY FX — cinematic profile banner"/>
+<img src="./assets/stormy-hero.svg" width="100%" alt="STORMY FX cinematic profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=780&lines=FRONTEND+DEVELOPER+%2F+CREATIVE+TECHNOLOGIST;Designing+interfaces+with+intent.;Engineering+motion%2C+depth%2C+and+detail.;Student+today.+Builder+every+day." alt="Animated intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=650&color=A78BFA&center=true&vCenter=true&width=850&lines=FRONTEND+DEVELOPER+%2F+CREATIVE+TECHNOLOGIST;Building+interfaces+with+character.;Exploring+motion%2C+visual+systems%2C+and+AI.;Student+today.+Builder+every+day.;CREATE.+REFINE.+EVOLVE." alt="Animated STORMY FX tagline"/>
 
 <p>
-  <a href="https://github.com/stormy-fx/stormy-fx"><img src="https://img.shields.io/badge/PROFILE-0A0A12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-  <a href="https://github.com/vivekananda-school/vivekananda-school?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_WORK-151128?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Explore repositories"/></a>
-  <a href="https://github.com/vivekananda-school/vivekananda-school/issues"><img src="https://img.shields.io/badge/LET'S_BUILD-0B2027?style=for-the-badge&logo=githubsponsors&logoColor=67E8F9" alt="Collaborate"/></a>
+<a href="https://github.com/vivekananda-school"><img src="https://img.shields.io/badge/GITHUB-0A0A12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/vivekananda-school/vivekananda-school?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-171329?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Projects"/></a>
+<a href="https://github.com/vivekananda-school/vivekananda-school"><img src="https://img.shields.io/badge/PROFILE_REPOSITORY-0B2027?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Profile README repository"/></a>
 </p>
 
 **DESIGN WITH INTENTION · ENGINEER WITH PRECISION · KEEP EVOLVING**
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/signal-divider.svg" width="100%" alt=""/>
 
-## `01 / THE PERSON BEHIND THE PIXELS`
+## `01 / IDENTITY — BEHIND THE PIXELS`
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-### Hey, I'm Akash — aka **STORMY FX**. 👋
+### Hey, I'm Akash Karmali — aka **STORMY FX**. 👋
 
-I'm a student and self-driven digital creator from **Odisha, India**, exploring the intersection of frontend development, UI/UX, motion design, and AI-assisted creation.
+I'm a student and independent digital builder from **Odisha, India**, exploring the space between frontend development, UI/UX, motion design, and AI-assisted creativity.
 
-I like interfaces that feel considered, not assembled: confident typography, strong composition, thoughtful interactions, smooth motion, and details that reward a closer look.
+I enjoy taking an idea from a rough concept to a working interface: shaping the layout, refining the visual language, adding meaningful interactions, and polishing the small details that make a digital experience feel intentional.
 
-I'm learning by building real projects, experimenting with new tools, and turning ambitious ideas into working digital experiences. The goal is simple: keep improving the craft and ship work I'm proud to put my name on.
+My approach is to learn by building. Each project is a chance to improve my code, sharpen my design eye, and understand how better experiences are made.
+
+**The direction:** create useful websites with a distinct visual identity — not just pages that look good in a screenshot.
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-### `CURRENT MODE`
+### `PROFILE / LIVE NOTES`
 
-| | |
+| FIELD | DETAILS |
 |---|---|
-| **Role** | Student · Builder |
-| **Focus** | Frontend & creative coding |
-| **Design** | UI/UX · Visual systems |
-| **Motion** | Interaction & scroll effects |
-| **Exploring** | AI-powered workflows |
-| **Based in** | Odisha, India |
+| Identity | STORMY FX |
+| Name | Akash Karmali |
+| Base | Odisha, India |
+| Current chapter | Student · Independent builder |
+| Main focus | Frontend & UI/UX |
+| Creative interests | Motion · AI · visual systems |
+| Mindset | Learn → Build → Refine |
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## `02 / WHAT I LIKE TO BUILD`
+## `02 / THE CREATIVE STACK`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Digital experiences
-Responsive websites, landing pages, portfolios, and business websites with clear structure, strong visual hierarchy, and polished details.
+### ◈ Frontend craft
 
-### ◈ Motion-led interfaces
-Scroll reveals, micro-interactions, layered transitions, parallax, and animation that supports the story instead of distracting from it.
+- Responsive website structure
+- HTML, CSS, and JavaScript
+- Layout, spacing, and typography
+- Reusable interface patterns
+- Practical, maintainable implementation
+
+### ◈ Interface design
+
+- Dark, cinematic visual systems
+- Glass-inspired surfaces
+- Strong hierarchy and composition
+- Mobile-first layout thinking
+- Clear navigation and user journeys
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ UI/UX & design systems
-Layouts, reusable components, design consistency, glass-inspired surfaces, typography, and mobile-first thinking.
+### ◈ Motion & interaction
 
-### ◈ AI & creative experiments
-Prompt engineering, AI-assisted development, model/API exploration, and prototypes that connect creative ideas with practical tools.
+- Scroll-led reveals
+- Hover states and micro-interactions
+- Layered visual depth
+- Parallax-inspired composition
+- Motion that supports usability
+
+### ◈ AI & experimentation
+
+- Prompt engineering
+- AI-assisted coding workflows
+- Rapid prototypes
+- Creative tool exploration
+- Testing ideas through small builds
 
 </td>
 </tr>
 </table>
 
-## `03 / SELECTED WORK — A LIVING LAB`
+<img src="./assets/signal-divider.svg" width="100%" alt=""/>
 
-> A snapshot of the kinds of projects I build. Replace the sample links and descriptions below with the exact repositories or live demos you want to feature.
+## `03 / SELECTED WORK — PROJECT UNIVERSE`
+
+> These are portfolio categories based on the kinds of work I'm exploring. Add your exact deployed links and repository URLs to turn each item into a verified case study.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/work-card.svg" width="100%" alt="Abstract project preview frame"/>
+<img src="./assets/project-visual.svg" width="100%" alt="Website design project visual"/>
 
-### `01 — Business websites`
+### `01 — Business web experiences`
 
-**Goal:** Make local businesses look credible online.
+**The objective:** help businesses present their services clearly and professionally online.
 
-Responsive websites for service businesses, restaurants, clinics, and other local brands, with clear navigation and conversion-focused content.
+Exploring responsive websites for local businesses, service providers, restaurants, and clinics — with clear content structure and thoughtful visual design.
 
-`HTML` `CSS` `JavaScript` `UI/UX`
+`HTML` `CSS` `JavaScript` `Responsive UI`
 
-[Explore repositories ↗](https://github.com/vivekananda-school/vivekananda-school?tab=repositories)
+[Browse repositories ↗](https://github.com/vivekananda-school/vivekananda-school?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/work-card.svg" width="100%" alt="Abstract project preview frame"/>
+<img src="./assets/project-visual.svg" width="100%" alt="Cinematic interface project visual"/>
 
-### `02 — Cinematic interfaces`
+### `02 — Cinematic interface studies`
 
-**Goal:** Turn a visual direction into a memorable web experience.
+**The objective:** make a web experience feel immersive without sacrificing clarity.
 
-Dark, editorial layouts with atmospheric gradients, refined typography, interactive details, and motion-conscious design.
+Dark themes, editorial typography, ambient gradients, glass-inspired layers, and deliberate transitions.
 
-`Frontend` `Motion` `Visual design`
+`Visual systems` `UI/UX` `Motion concepts`
 
-[Explore repositories ↗](https://github.com/vivekananda-school/vivekananda-school?tab=repositories)
+[Browse repositories ↗](https://github.com/vivekananda-school/vivekananda-school?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/work-card.svg" width="100%" alt="Abstract project preview frame"/>
+<img src="./assets/project-visual.svg" width="100%" alt="AI experimentation project visual"/>
 
-### `03 — AI-assisted experiments`
+### `03 — AI creative experiments`
 
-**Goal:** Explore how AI can accelerate creative workflows.
+**The objective:** explore faster ways to move from an idea to a prototype.
 
-Prompt experiments, prototypes, and ideas at the intersection of interface design, automation, and AI tools.
+Prompt workflows, AI-assisted development, model exploration, and experiments that connect creativity with useful tools.
 
 `AI tools` `Prompting` `Prototyping`
 
-[Explore repositories ↗](https://github.com/vivekananda-school/vivekananda-school?tab=repositories)
+[Browse repositories ↗](https://github.com/vivekananda-school/vivekananda-school?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/work-card.svg" width="100%" alt="Abstract project preview frame"/>
+<img src="./assets/project-visual.svg" width="100%" alt="Learning and experimentation project visual"/>
 
 ### `04 — Learning in public`
 
-**Goal:** Improve by shipping, reviewing, and iterating.
+**The objective:** keep a visible record of progress through real builds.
 
-Small experiments, practice builds, and increasingly ambitious projects that document the journey from student to developer.
+Practice projects, interface experiments, and increasingly ambitious ideas — reviewed, improved, and rebuilt as my skills develop.
 
-`Learning` `Building` `Iteration`
+`Practice` `Iteration` `Continuous learning`
 
-[Browse all projects ↗](https://github.com/vivekananda-school/vivekananda-school?tab=repositories)
+[Browse all repositories ↗](https://github.com/vivekananda-school/vivekananda-school?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+### Project case-study format
 
-## `04 / TOOLKIT`
+For each real project you add, aim to document:
+
+- **Problem:** what the project was meant to solve.
+- **Approach:** how you structured and designed it.
+- **Highlights:** the features or details worth noticing.
+- **Stack:** the technologies actually used.
+- **Outcome:** what works, what you learned, and what you would improve.
+
+<img src="./assets/signal-divider.svg" width="100%" alt=""/>
+
+## `04 / TECHNOLOGIES & TOOLS`
 
 <div align="center">
 
-**CORE WEB**
+**WEB DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs&theme=dark" alt="Core web technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Web development technologies"/>
 
-**MOTION & CREATIVE TOOLS**
+**DESIGN / MOTION / PROTOTYPING**
 
-<img src="https://skillicons.dev/icons?i=figma,threejs,git,github,vercel,firebase,supabase&theme=dark" alt="Design and development tools"/>
+<img src="https://skillicons.dev/icons?i=figma,threejs,vercel&theme=dark" alt="Design and deployment tools"/>
 
-**AI EXPLORATION**
+**CURRENT EXPLORATION**
 
-`Prompt engineering` · `AI-assisted coding` · `API experimentation` · `Rapid prototyping`
+`Modern CSS` · `JavaScript interactions` · `UI/UX systems` · `AI-assisted workflows` · `Creative coding`
 
 </div>
 
-<sub>Toolkit reflects areas I work with or explore; depth varies by technology as I continue learning.</sub>
+<sub>This is an exploration map, not a claim of expert-level proficiency in every tool. Add or remove icons to reflect your current hands-on experience.</sub>
 
-## `05 / HOW I WORK`
+## `05 / BUILD PHILOSOPHY`
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-### `01 / DISCOVER`
+### `01 / CLARITY`
 
-Understand the goal, audience, and visual direction.
-
-</td>
-<td align="center" width="34%">
-
-### `02 / BUILD`
-
-Translate the idea into structure, components, and interactions.
+Start with the goal. Make the content and user journey understandable.
 
 </td>
-<td align="center" width="33%">
+<td width="34%" align="center" valign="top">
 
-### `03 / REFINE`
+### `02 / CRAFT`
 
-Test responsiveness, polish the details, and keep iterating.
+Give typography, spacing, motion, and responsive behaviour the attention they deserve.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### `03 / ITERATION`
+
+Test the result, find weak spots, and refine instead of stopping at the first version.
 
 </td>
 </tr>
 </table>
 
-## `06 / GITHUB TELEMETRY`
+## `06 / WHAT I'M WORKING TOWARD`
+
+- Building stronger fundamentals in frontend engineering.
+- Creating more polished and responsive real-world websites.
+- Improving my visual design and motion vocabulary.
+- Using AI tools as an accelerator while continuing to understand the underlying code.
+- Developing a portfolio of projects with clear purpose, real demos, and honest case studies.
+
+## `07 / GITHUB TELEMETRY`
 
 <div align="center">
 
-<!-- If these cards don't load, replace the username with the actual GitHub username that owns your profile. -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vivekananda-school&show_icons=true&hide_border=true&bg_color=080811&title_color=A78BFA&text_color=D1D5DB&icon_color=67E8F9&ring_color=A78BFA" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekananda-school&layout=compact&hide_border=true&bg_color=080811&title_color=A78BFA&text_color=D1D5DB" alt="Most used languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=vivekananda-school&show_icons=true&hide_border=true&bg_color=080811&title_color=A78BFA&text_color=D1D5DB&icon_color=67E8F9" alt="GitHub activity statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekananda-school&layout=compact&hide_border=true&bg_color=080811&title_color=A78BFA&text_color=D1D5DB" alt="Most used languages"/>
 
 <img width="90%" src="https://streak-stats.demolab.com?user=vivekananda-school&hide_border=true&background=080811&ring=A78BFA&fire=67E8F9&currStreakLabel=A78BFA&sideLabels=D1D5DB&dates=9CA3AF" alt="GitHub contribution streak"/>
 
 </div>
 
-## `07 / CONTRIBUTION FLOW`
+<sub>If your existing statistics cards already work with a different username or URL, preserve those exact image links instead of replacing them.</sub>
+
+## `08 / CONTRIBUTION FLOW`
 
 <div align="center">
 
-<!-- Keep this URL aligned with the output filename used by your existing snake workflow. -->
-<img width="100%" src="https://raw.githubusercontent.com/vivekananda-school/vivekananda-school/output/github-snake-dark.svg" alt="Animated contribution snake"/>
+<img width="100%" src="https://raw.githubusercontent.com/vivekananda-school/vivekananda-school/output/github-snake-dark.svg" alt="Animated GitHub contribution snake"/>
 
 </div>
 
-## `08 / CURRENTLY EXPLORING`
+<sub>The snake image depends on the repository's GitHub Actions workflow and its configured output branch. Keep the URL aligned with your working workflow.</sub>
+
+## `09 / TERMINAL — CURRENT FOCUS`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2400&pause=650&color=67E8F9&center=true&vCenter=true&width=760&lines=%3E+Building+better+frontend+foundations;%3E+Studying+motion+and+interaction+design;%3E+Experimenting+with+AI+creative+workflows;%3E+Turning+ideas+into+real+projects;%3E+Learning.+Shipping.+Refining." alt="Animated current focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2300&pause=600&color=67E8F9&center=true&vCenter=true&width=820&lines=%3E+Improving+frontend+foundations;%3E+Refining+responsive+layouts;%3E+Studying+motion+and+interaction;%3E+Exploring+AI+creative+workflows;%3E+Building.+Testing.+Evolving." alt="Animated developer terminal"/>
 
 </div>
 
-## `09 / CONNECT`
+## `10 / BEYOND THE SCREEN`
+
+I’m interested in more than writing code. Visual storytelling, cinematic imagery, gaming worlds, creative software, and emerging AI tools all influence the way I think about digital experiences.
+
+That curiosity pushes me to experiment, combine ideas, and keep learning outside a single technology stack.
+
+## `11 / LET'S CONNECT`
 
 <div align="center">
 
-**Have an idea, feedback, or an interesting project? Let's connect and keep building.**
+**Ideas become better when they're shared, tested, and built.**
 
-<a href="https://github.com/vivekananda-school"><img src="https://img.shields.io/badge/GITHUB-0A0A12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/vivekananda-school/vivekananda-school?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-151128?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Projects"/></a>
+For feedback, collaboration, or a conversation about web design and creative technology, find me on GitHub.
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<a href="https://github.com/vivekananda-school"><img src="https://img.shields.io/badge/FIND_ME_ON_GITHUB-171329?style=for-the-badge&logo=github&logoColor=white" alt="Find me on GitHub"/></a>
+<a href="https://github.com/vivekananda-school/vivekananda-school?tab=repositories"><img src="https://img.shields.io/badge/VIEW_MY_WORK-0B2027?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="View work"/></a>
 
-<img src="./assets/hero.svg" width="100%" alt="STORMY FX — create, refine, evolve"/>
+<img src="./assets/signal-divider.svg" width="100%" alt=""/>
 
-<sub>STORMY FX · AKASH KARMALI · ODISHA, INDIA</sub>
+<img src="./assets/stormy-hero.svg" width="100%" alt="STORMY FX footer artwork"/>
+
+**STORMY FX · AKASH KARMALI · ODISHA, INDIA**
 
 <sub>CREATE / REFINE / EVOLVE — BUILT WITH CURIOSITY.</sub>
 
