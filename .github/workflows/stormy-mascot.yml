@@ -1,0 +1,43 @@
+name: STORMY FX Minecraft Mascot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stormy-fx-mascot
+  cancel-in-progress: false
+
+jobs:
+  generate-mascot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install image library
+        run: python -m pip install --upgrade Pillow
+
+      - name: Generate animated mascot
+        run: python scripts/generate_mascot.py
+
+      - name: Commit updated mascot
+        run: |
+          if git diff --quiet -- assets/stormy-mascot.gif; then
+            echo "Mascot output is unchanged; no commit needed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stormy-mascot.gif
+          git commit -m "Update STORMY FX animated mascot"
+          git push
